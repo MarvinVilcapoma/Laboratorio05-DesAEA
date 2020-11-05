@@ -22,3 +22,7 @@ C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj
 C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj\Debug\Vilcapoma_Semana05.csproj.CopyComplete
 C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj\Debug\Vilcapoma_Semana05.exe
 C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj\Debug\Vilcapoma_Semana05.pdb
+C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj\Debug\View\ListaCategoria.g.cs
+C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj\Debug\View\ManCategoria.g.cs
+C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj\Debug\View\ListaCategoria.baml
+C:\Users\Marvin Vilcapoma\source\repos\Vilcapoma_Semana05\Vilcapoma_Semana05\obj\Debug\View\ManCategoria.baml
